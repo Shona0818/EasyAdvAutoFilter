@@ -205,10 +205,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ➟ <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">Fix Sound</a>
 
-    FORCE_SUB = """
-** ᴊᴏɪɴ ᴏᴜʀ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ "ᴛʀʏ ᴀɢᴀɪɴ" ʙᴜᴛᴛᴏɴ.
-
- पहले ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ को ᴊᴏɪɴ करे और उसके बाद "ᴛʀʏ ᴀɢᴀɪɴ" पे क्लिक करे **"""
+    FORCE_SUB = """ ** Join our backup channel first and then click on "TRY AGAIN" Button **"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
