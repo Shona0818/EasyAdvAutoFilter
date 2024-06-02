@@ -214,7 +214,7 @@ IMDb Data:
  Title: <a href={url}>{title}</a>
  Genres: {genres}
  Year: <a href={url}/releaseinfo>{year}</a>
- Result Shown in: {remaining_seconds} <i>seconds</i> 
+ Result Shown : {remaining_seconds} <i>seconds</i> 
  Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
 
     
